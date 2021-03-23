@@ -1,0 +1,3 @@
+*.classs
+**/*.classs
+.vscode/
