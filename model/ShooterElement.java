@@ -23,7 +23,7 @@ public class ShooterElement extends GameElement{
 
 	@Override
 	public void animate() {
-		// TODO Auto-generated method stub
+		
 		
 	}
 	
