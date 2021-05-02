@@ -21,7 +21,7 @@ public class Enemy extends GameElement {
 
 	@Override
 	public void animate() {
-		//composite group of enemies
+		//composite group of enemies to be implemeted here
 	}
 
 }
